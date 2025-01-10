@@ -2,7 +2,7 @@
 
 ### Forder Details
 
-1. CodeLabs -> Google CodeLabs Study
+1. CodeLabs
+   * Google CodeLab -> Your First App ( Random Word Creator)
+   * Google CodeLAb MDC-101
 
-2. Google Flutter MDC-101 Project
-   
