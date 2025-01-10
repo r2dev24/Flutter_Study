@@ -35,3 +35,17 @@
         * 앱 실행 → 로그인 화면
         * 입력 → NEXT 클릭 → NewPage 이동
         * CANCEL 클릭 → 입력 초기화
+
+### 3) MDC-102 (리스트 뷰 생성)
+      * 상단 AppBar 추가
+         * Menu, Search, Filter
+         * AppBar Title 추가
+
+      * Grid View + List
+         * 그리드 위젯 사용하여 제품 목록 표시
+         * 각 제품 카드 형태로 표시
+
+      * 카드 위젯 사용
+         * 제품 정보: 가격, 제품명, 이미지(Shrine_Image 패키지 현재 사용 불가 상태)
+
+      * Shrine_Image 패키지 사용 하려 하였으나, 패키지 사용 불가로 텍스트로 대체하여 출력
